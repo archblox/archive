@@ -2,7 +2,7 @@
 These are the private keys used in older versions of both the client and studio.
 
 
-These are only left here for archival purposes. Please re-patch the client and studio with a new key.
+These are only left here for archival purposes. Please re-patch the client and studio with a new key, as using these keys is very unsafe.
 
 
 ### Supported versions for each key
