@@ -10,5 +10,5 @@ You may use the private keys for older versions. You cannot use the private key 
 
 ## NOTICE!!
 As we no longer use morblox.us as a domain, DO NOT USE THE FOLLOWING VERSIONS WITHOUT RE-PATCHING THEM:
-- Client versions 01 to 11
+- Client versions 01 to 10
 - Studio versions 01 to 04
